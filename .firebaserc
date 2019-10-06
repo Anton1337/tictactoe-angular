@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tictactoe-angular-b2330": {
+      "hosting": {
+        "tictactoe-angular": [
+          "tictactoe-angular-b2330"
+        ]
+      }
+    }
+  }
+}

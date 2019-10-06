@@ -1,0 +1,15 @@
+{
+  "hosting": [
+    {
+      "target": "tictactoe-angular",
+      "public": "dist/tictactoe-angular",
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    }
+  ]
+}
